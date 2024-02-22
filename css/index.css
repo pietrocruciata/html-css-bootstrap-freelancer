@@ -1,16 +1,21 @@
 /*RESET*/
-ul,li,menu{
+ul,
+li,
+menu {
     list-style: none;
 }
 
-a{
+a {
     text-decoration: none;
     color: currentColor;
 }
 
 
 /*COLORS*/
-.bg-darkblue{
+.bg-darkblue {
     background-color: rgb(4, 4, 74);
 }
 
+.bg-green{
+    background-color: rgb(11, 200, 150);
+}

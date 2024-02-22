@@ -10,20 +10,33 @@ a {
     color: currentColor;
 }
 
-img{
+img {
     width: 100%;
 }
 
 /*LAYOUT*/
 
-.message_height{
+.message_height {
     height: 100px;
 }
+
 /*COLORS*/
 .bg-darkblue {
     background-color: rgb(4, 4, 74);
 }
 
-.bg-green{
+.bg-green {
     background-color: rgb(11, 200, 150);
+}
+
+.bg-blue {
+    background-color: rgb(15, 15, 113);
+}
+
+.c-green {
+    color: rgb(11, 200, 150);
+}
+
+.bg-mostdarkblue {
+    background-color: rgb(9, 9, 51);
 }

@@ -14,7 +14,11 @@ img{
     width: 100%;
 }
 
+/*LAYOUT*/
 
+.message_height{
+    height: 100px;
+}
 /*COLORS*/
 .bg-darkblue {
     background-color: rgb(4, 4, 74);

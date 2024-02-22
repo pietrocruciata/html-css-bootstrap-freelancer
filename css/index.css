@@ -1,4 +1,16 @@
+/*RESET*/
+ul,li,menu{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: currentColor;
+}
+
+
 /*COLORS*/
 .bg-darkblue{
     background-color: rgb(4, 4, 74);
 }
+

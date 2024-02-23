@@ -14,6 +14,19 @@ img {
     width: 100%;
 }
 
+.bars::after,
+.bars::before {
+    content: "";
+    border-bottom: 4px solid;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.bars {
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
 
 /*COLORS*/
 .bg-darkblue {
